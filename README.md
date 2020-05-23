@@ -1,2 +1,2 @@
 # Generated-Faces-DPND
-Use GANs (Generative adversarial networks) to generate faces using Convolutional Neural Networks.
+In this assignment for Udacity's Deep Learning, I used GANs (Generative adversarial networks) to generate faces using Convolutional Neural Networks.
